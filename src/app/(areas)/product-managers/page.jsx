@@ -9,8 +9,8 @@ const estudiantes = [
   },
   {
     nombre: "Dayana Ramirez",
-    especialidad: "Redes y Comunicaciones",
-    descripcion: "Especialista en diseño e implementación de redes.",
+    especialidad: "Product Management",
+    descripcion: "Product Manager con experiencia en gestión de productos digitales.",
     imagen: "https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/469369672_1094876862106042_6139921226778216547_n.jpg?ccb=11-4&oh=01_Q5AaIC_Awi9vCsEyvu3cmxXtzRz8UfDCoYhkYqoCcdT2YYFm&oe=679D4F8B&_nc_sid=5e03e0&_nc_cat=109"
   },
 ]
