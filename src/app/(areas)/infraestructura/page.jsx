@@ -29,7 +29,7 @@ const estudiantes = [
     nombre: "Amanda Rivera",
     especialidad: "Infraestructura Cloud",
     descripcion: "Especialista en servicios cloud y virtualización.",
-    imagen: "https://scontent.fuio13-1.fna.fbcdn.net/v/t39.30808-6/474609945_2410937709246176_703754299292700597_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEC1o6AwWxpZLQ34Qd7nEDQbyXi5JbaeflvJeLkltp5-caGhZPrxd0ftqpxuPDvMR1PSbH2tB3-FxclKwWstplg&_nc_ohc=xmxYK0hw7ngQ7kNvgFuahav&_nc_zt=23&_nc_ht=scontent.fuio13-1.fna&_nc_gid=A8x6NGsIugZeCRNkb8PvjvL&oh=00_AYAu8CtGfDtIHBLTSbFfyYpIo-Z8XAt00ewkJFch5MJBeA&oe=6795FE2C"
+    imagen: "https://scontent.fuio13-1.fna.fbcdn.net/v/t39.30808-6/466731185_958614102746208_2838830893414529778_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGdAhGO_rW3FSk37o6-6oDTqiqJE64rf_OqKokTrit_88P8ZrMQ4aqROmDqPEsJkb96_U3Z21c3GyKwcvM6LRyJ&_nc_ohc=JlZhDyzFJiIQ7kNvgG2caHj&_nc_zt=23&_nc_ht=scontent.fuio13-1.fna&_nc_gid=A8PGjRKfZWMb4ZL9iH-lMG7&oh=00_AYDG4QcdLydASRZStTnAzFinKF-vSFnnQ6x2MSjYwB58dw&oe=6795EE73"
   }
 ]
 
